@@ -1,0 +1,5 @@
+task to work on 
+	reset
+	revert
+	squash
+	stash
