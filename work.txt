@@ -1,4 +1,0 @@
-task to do
-	revert
-	squash
-	rebase
